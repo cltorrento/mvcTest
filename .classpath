@@ -2,6 +2,18 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/javax.persistence_2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.beans_3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.transaction_3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.web.servlet-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-1.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-autoconfigure-2.0.0.M5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

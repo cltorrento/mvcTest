@@ -1,1 +1,7 @@
-/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/MvcTestApplication.java
+/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/service/UserService.java
+/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/entity/User.java
+/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/controller/UserController.java
+/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/dao/UserDAO.java
+/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/service/UserServiceInterface.java
+/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/dao/UserDAOImpl.java
+/home/tuxito/eclipse/eclipse-workspace/mvcTest/src/main/java/com/torrento/Prueba/mvcTest/MyApplication.java
